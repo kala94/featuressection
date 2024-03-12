@@ -1,0 +1,85 @@
+* {
+    padding:0px;
+	margin:0px;
+  }
+  #feasec,#secfea
+  {
+    margin:auto;
+	width:100%;
+	height:550px;
+	background-color:#f0ffff;
+	font-family:arial;
+  }
+  .fea
+  { 
+    text-align:center;
+    margin-top:50px;	 
+  }
+  .teamrow
+  { 
+    width:100%;
+    display:flex;
+  }
+  .teamcol
+  { 
+    width:50%;
+  }
+  .col 
+  { 
+    width:60%;
+    margin:auto; 
+  }
+  .para
+  { 
+    padding-top:50px; 
+  }
+  .photo 
+  {	 
+    position:relative; 
+  }
+  .img1
+  {
+    height:250px;
+    width:400px;
+	box-shadow:0 15px 30px -10px rgba(0,0,0,0.1);
+	border:5px solid white;
+  }
+  .img2
+  {
+	height:270px;
+    width:400px;
+    border:5px solid white;
+	box-shadow:0 15px 30px -10px rgba(0,0,0,0.1);
+	position:absolute;
+	top:65px;
+	right:150px;
+  }
+  .img3
+  {
+    height:500px;
+    width:450px;
+	box-shadow:0 15px 30px -10px rgba(0,0,0,0.1);
+	border:5px solid white;
+  }
+  span
+  { 
+    color:red; 
+  }  
+  a 
+  {
+	text-decoration:none;
+    background-color:red;
+	display:inline-block;
+	border-radius:5px;		
+	color:white;
+    padding:8px 20px;
+  }
+  i 
+  { 
+    color:red;
+  }
+  ol 
+  { 
+    list-style-type:none;
+  }
+ 
